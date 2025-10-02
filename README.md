@@ -52,5 +52,5 @@ Các nguồn dữ liệu chính:
 
 
 
-!\[Map of Dong Hoa - Di An](map1.png)
+![Map of Dong Hoa - Di An](map1.png)
 
